@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Test Jujura</string>
+    <string name="rp">IDR </string>
+    <string name="id">Product ID</string>
+    <string name="id_item">Item ID</string>
+    <string name="stock">Stock</string>
+    <string name="add">ADD</string>
+    <string name="qty">QTY</string>
+    <string name="total">Total</string>
+    <string name="signature_key">Signature Key</string>
+    <string name="payment_type">Payment Type</string>
+    <string name="currency">Currency</string>
+    <string name="gross_amount">Gross Amount</string>
+    <string name="sales_list">Sales List</string>
+    <string name="sales_insert">Insert Sales</string>
+    <string name="sales_status">Sales Status</string>
+    <string name="back_to_home">Back to Home</string>
+</resources>
